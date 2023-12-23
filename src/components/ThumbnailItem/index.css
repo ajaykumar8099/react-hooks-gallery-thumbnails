@@ -1,0 +1,9 @@
+/* Write your code here. */
+.blur {
+  opacity: 0.5;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}

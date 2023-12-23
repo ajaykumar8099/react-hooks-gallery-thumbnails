@@ -1,0 +1,20 @@
+/* Write your code here. */
+.container {
+  min-height: 100vh;
+  padding: 20px;
+  font-family: 'Roboto';
+}
+.image {
+  width: 50%;
+}
+.un-li-container {
+  display: flex;
+  list-style-type: none;
+}
+h1 {
+  color: #1e293b;
+}
+
+p {
+  color: #64748b;
+}
